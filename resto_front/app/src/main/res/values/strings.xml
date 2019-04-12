@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Res</string>
+    <string name="title_activity_login">LoginAct</string>
+    <string name="profile">Profil</string>
+    <string name="logout">Déconnexion</string>
+    <string name="profil"><u>Profil</u></string>
+    <string name="username"><u><b>Pseudo :</b></u></string>
+    <string name="nom"><u><b>Nom :</b></u></string>
+    <string name="prénom"><u><b>Prénom :</b></u></string>
+    <string name="age"><u><b>Âge :</b></u></string>
+    <string name="email"><u><b>Email :</b></u></string>
+    <string name="telephone"><u><b>Téléphone :</b></u></string>
+    <string name="accueil"><b>Accueil</b></string>
+    <string name="restau">Ajouter un restaurant</string>
+    <string name="trie1">Trier par note</string>
+    <string name="trie2">Trier par prix</string>
+    <string name="trie3">Récemment ajoutés</string>
+    <string name="addmenu">Ajouter un menu</string>
+    <string name="modifresto">Modifier un restaurant</string>
+    <string name="showavis">Afficher les avis</string>
+    <string name="addavis">Ajouter un avis</string>
+    <string name="menu"><u><b>MENU</b></u></string>
+    <string name="autrenom"><b>Nom :</b></string>
+    <string name="description"><b>Description :</b></string>
+    <string name="autretelephone"><b>Téléphone :</b></string>
+    <string name="localisation"><b>Localisation :</b></string>
+    <string name="web_site"><b>Site web :</b></string>
+    <string name="horaire_semaine"><b>Horaire en semaine :</b></string>
+    <string name="horaire_week"><b>Horaire du week-end :</b></string>
+    <string name="delresto">Supprimer le restaurant</string>
+
+</resources>

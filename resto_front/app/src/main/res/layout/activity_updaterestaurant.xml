@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/colorPrimaryDark"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.constraint.ConstraintLayout android:layout_height="match_parent"
+        android:layout_width="match_parent" >
+    <EditText
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:hint="Nom"
+        android:background="@drawable/arrondir_edittext_register_login"
+        android:layout_marginEnd="8dp"
+        android:paddingLeft="16dp"
+        app:layout_constraintEnd_toEndOf="parent" android:layout_marginRight="8dp"
+        app:layout_constraintStart_toStartOf="parent" android:layout_marginTop="30dp"
+        app:layout_constraintTop_toTopOf="parent" android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp" app:layout_constraintHorizontal_bias="0.0"
+        android:id="@+id/update_restaurant_name_editText"/>
+
+    <EditText
+        android:id="@+id/update_restaurant_description_editText"
+        android:layout_width="0dp"
+        android:layout_height="130dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/arrondir_edittext_register_login"
+        android:ems="10"
+        android:hint="Description"
+        android:inputType="textPersonName"
+        android:paddingLeft="16dp"
+        app:layout_constraintEnd_toEndOf="@+id/update_restaurant_name_editText"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/update_restaurant_name_editText"
+        app:layout_constraintTop_toBottomOf="@+id/update_restaurant_name_editText" />
+    <EditText
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/update_restaurant_localisation_editText" android:layout_marginTop="16dp"
+        app:layout_constraintTop_toBottomOf="@+id/update_restaurant_description_editText"
+        app:layout_constraintStart_toStartOf="@+id/update_restaurant_description_editText" app:layout_constraintEnd_toEndOf="@+id/update_restaurant_description_editText"
+        android:hint="Localisation"
+        android:background="@drawable/arrondir_edittext_register_login"
+        android:paddingLeft="16dp"/>
+
+    <EditText
+        android:id="@+id/update_restaurant_horaire_semaine_localisation_editText"
+        android:layout_width="398dp"
+        android:layout_height="39dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/arrondir_edittext_register_login"
+        android:ems="10"
+        android:hint="Horaire en semaine"
+        android:inputType="textPersonName"
+        android:paddingLeft="16dp"
+        app:layout_constraintStart_toStartOf="@+id/update_restaurant_localisation_editText"
+        app:layout_constraintTop_toBottomOf="@+id/update_restaurant_localisation_editText" />
+
+    <EditText
+        android:id="@+id/update_restaurant_horaire_week_localisation_editText"
+        android:layout_width="396dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/arrondir_edittext_register_login"
+        android:ems="10"
+        android:hint="Horaire week-end"
+        android:inputType="textPersonName"
+        android:paddingLeft="16dp"
+        app:layout_constraintEnd_toEndOf="@+id/update_restaurant_localisation_editText"
+        app:layout_constraintHorizontal_bias="0.888"
+        app:layout_constraintStart_toStartOf="@+id/update_restaurant_horaire_semaine_localisation_editText"
+        app:layout_constraintTop_toBottomOf="@+id/update_restaurant_horaire_semaine_localisation_editText"
+        android:layout_marginLeft="8dp" />
+
+    <EditText
+        android:id="@+id/update_restaurant_web_site_editText"
+        android:layout_width="394dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/arrondir_edittext_register_login"
+        android:ems="10"
+        android:hint="Site web"
+        android:inputType="textPersonName"
+        android:paddingLeft="16dp"
+        app:layout_constraintEnd_toEndOf="@+id/update_restaurant_horaire_week_localisation_editText"
+        app:layout_constraintStart_toStartOf="@+id/update_restaurant_horaire_week_localisation_editText"
+        app:layout_constraintTop_toBottomOf="@+id/update_restaurant_horaire_week_localisation_editText" />
+
+    <EditText
+        android:id="@+id/update_restaurant_phone_editText"
+        android:layout_width="393dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/arrondir_edittext_register_login"
+        android:ems="10"
+        android:hint="06XXXXXXXX"
+        android:inputType="phone"
+        android:paddingLeft="16dp"
+        app:layout_constraintStart_toStartOf="@+id/update_restaurant_web_site_editText"
+        app:layout_constraintTop_toBottomOf="@+id/update_restaurant_web_site_editText" />
+
+    <Button
+        android:id="@+id/update_restaurant_button"
+        android:layout_width="200dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="24dp"
+        android:background="@color/colorPrimary"
+        android:text="Modifier"
+        app:layout_constraintEnd_toEndOf="@+id/update_restaurant_phone_editText"
+        app:layout_constraintStart_toStartOf="@+id/update_restaurant_phone_editText"
+        app:layout_constraintTop_toBottomOf="@+id/update_restaurant_phone_editText" />
+</android.support.constraint.ConstraintLayout>
+
+
+    <android.support.design.widget.NavigationView
+        android:id="@+id/navigation6"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:background="#FFF"
+        app:menu="@menu/menu_accueil"
+        android:layout_gravity="start"
+        tools:ignore="MissingConstraints">
+    </android.support.design.widget.NavigationView>
+
+
+</android.support.v4.widget.DrawerLayout>

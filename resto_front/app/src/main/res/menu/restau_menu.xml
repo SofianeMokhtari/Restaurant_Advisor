@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/addmenu"
+        android:title="@string/addmenu"
+        app:showAsAction="never"/>
+    <item android:id="@+id/modifmenu"
+        android:title="@string/modifresto"
+        app:showAsAction="never"/>
+    <item android:id="@+id/addavis"
+        android:title="@string/addavis"
+        app:showAsAction="never"/>
+    <item android:id="@+id/showavis"
+        android:title="@string/showavis"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/deleteresto"
+        android:title="@string/delresto"
+        app:showAsAction="never"/>
+
+
+</menu>

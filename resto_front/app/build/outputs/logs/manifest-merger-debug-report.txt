@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\848958dbd5f115f94ae6c15bb74913ef\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\bfefd962e2dfde94751d7dc7bdf14e45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\da63fb86c8f63fb2a5b48e338e11676b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f5fd671aa08ef67596e2a2390e618f1f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\125f49bed5cc1bc0c5bd06a48b2abe86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ac6d1b4d98d3df14b763946e62656bee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\87848db846896aef1f4d6ff877fd492f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\17be177b0322c27b733e0e64ee96474a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\31f07d42f6eea1f42982d2f760fdcbda\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\232613ecb9f5c30363b25dc926165c53\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4a6389a53b98444fff7f905a68695656\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e96a547922e40dc92f841c476bf7c386\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7060af15825b8077d535742478e1512e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f79cf9fed556eb8dd3007ae14a49148d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fba65324c25629fb663fc6adaf8aceab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\9a2190dd4724a9028d6658a3ec68c9fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\9d5ce841d3ee524da6c4b2359b38802a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\071c2465b0b19e872e94a2dfc07c7ccd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2736c1a914fa3d26a9bcc17c14572bf7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0673835391eff8769745481c51c9e4dd\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fcd9c0e266e1ed43a143eb4e333ca7e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\0ec611ce72a1e22ce110062918e0649f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\99768f31e1009a6904a935455b8489f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6298d177c09567a10cf51fcefbb18429\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1f265c557b9ac42308772d0991d26bef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\9cfd614aaa13c1f1ecea35ddaccdf622\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\656a5a802bae95ae1f9afc7fea95f0d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\faaca1448f97700a16b528798adcbe9a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8cde3dcf2c58009f1a71b0b3ac90e053\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ec07f0de9e4ba20af09e96516b50c5c6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3d240960d61ca6086f2f76a8fcf167a7\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:4:5-51
+	xmlns:dist
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:7:22-64
+dist:module
+ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:9:5-40
+	dist:instant
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:9:18-37
+application
+ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:11:5-41:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\848958dbd5f115f94ae6c15bb74913ef\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\848958dbd5f115f94ae6c15bb74913ef\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\da63fb86c8f63fb2a5b48e338e11676b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\da63fb86c8f63fb2a5b48e338e11676b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2736c1a914fa3d26a9bcc17c14572bf7\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2736c1a914fa3d26a9bcc17c14572bf7\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0673835391eff8769745481c51c9e4dd\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0673835391eff8769745481c51c9e4dd\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2736c1a914fa3d26a9bcc17c14572bf7\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:14:9-41
+	tools:ignore
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:19:9-48
+	android:roundIcon
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:15:9-54
+	tools:targetApi
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:20:9-28
+	android:icon
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:17:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:18:9-44
+activity#com.example.res.MainActivity
+ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:21:9-26:20
+	android:name
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:21:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.example.res.LoginActivity
+ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:27:9-51
+	android:name
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:27:19-48
+activity#com.example.res.AfficheRestaurantActivity
+ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:28:9-63
+	android:name
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:28:19-60
+activity#com.example.res.AddRestaurantActivity
+ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:29:9-59
+	android:name
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:29:19-56
+activity#com.example.res.UpdateRestaurantActivity
+ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:30:9-62
+	android:name
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:30:19-59
+activity#com.example.res.AddMenusActivity
+ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:31:9-54
+	android:name
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:31:19-51
+activity#com.example.res.AfficheMenusActivity
+ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:32:9-58
+	android:name
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:32:19-55
+activity#com.example.res.ProfilUserActivity
+ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:33:9-56
+	android:name
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:33:19-53
+activity#com.example.res.AfficheAvisActivity
+ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:34:9-57
+	android:name
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:34:19-54
+activity#com.example.res.AddAvisActivity
+ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:35:9-53
+	android:name
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:35:19-50
+activity#com.example.res.UpdateMenusActivity
+ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:36:9-57
+	android:name
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml:36:19-54
+uses-sdk
+INJECTED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\848958dbd5f115f94ae6c15bb74913ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\848958dbd5f115f94ae6c15bb74913ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\bfefd962e2dfde94751d7dc7bdf14e45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\bfefd962e2dfde94751d7dc7bdf14e45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\da63fb86c8f63fb2a5b48e338e11676b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\da63fb86c8f63fb2a5b48e338e11676b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f5fd671aa08ef67596e2a2390e618f1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\f5fd671aa08ef67596e2a2390e618f1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\125f49bed5cc1bc0c5bd06a48b2abe86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\125f49bed5cc1bc0c5bd06a48b2abe86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ac6d1b4d98d3df14b763946e62656bee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ac6d1b4d98d3df14b763946e62656bee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\87848db846896aef1f4d6ff877fd492f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\87848db846896aef1f4d6ff877fd492f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\17be177b0322c27b733e0e64ee96474a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\17be177b0322c27b733e0e64ee96474a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\31f07d42f6eea1f42982d2f760fdcbda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\31f07d42f6eea1f42982d2f760fdcbda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\232613ecb9f5c30363b25dc926165c53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\232613ecb9f5c30363b25dc926165c53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4a6389a53b98444fff7f905a68695656\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4a6389a53b98444fff7f905a68695656\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e96a547922e40dc92f841c476bf7c386\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e96a547922e40dc92f841c476bf7c386\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7060af15825b8077d535742478e1512e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\7060af15825b8077d535742478e1512e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f79cf9fed556eb8dd3007ae14a49148d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f79cf9fed556eb8dd3007ae14a49148d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fba65324c25629fb663fc6adaf8aceab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fba65324c25629fb663fc6adaf8aceab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\9a2190dd4724a9028d6658a3ec68c9fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\9a2190dd4724a9028d6658a3ec68c9fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\9d5ce841d3ee524da6c4b2359b38802a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\9d5ce841d3ee524da6c4b2359b38802a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\071c2465b0b19e872e94a2dfc07c7ccd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\071c2465b0b19e872e94a2dfc07c7ccd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2736c1a914fa3d26a9bcc17c14572bf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2736c1a914fa3d26a9bcc17c14572bf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0673835391eff8769745481c51c9e4dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0673835391eff8769745481c51c9e4dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fcd9c0e266e1ed43a143eb4e333ca7e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fcd9c0e266e1ed43a143eb4e333ca7e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\0ec611ce72a1e22ce110062918e0649f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\0ec611ce72a1e22ce110062918e0649f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\99768f31e1009a6904a935455b8489f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\99768f31e1009a6904a935455b8489f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6298d177c09567a10cf51fcefbb18429\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6298d177c09567a10cf51fcefbb18429\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1f265c557b9ac42308772d0991d26bef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1f265c557b9ac42308772d0991d26bef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\9cfd614aaa13c1f1ecea35ddaccdf622\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\9cfd614aaa13c1f1ecea35ddaccdf622\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\656a5a802bae95ae1f9afc7fea95f0d3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\656a5a802bae95ae1f9afc7fea95f0d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\faaca1448f97700a16b528798adcbe9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\faaca1448f97700a16b528798adcbe9a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8cde3dcf2c58009f1a71b0b3ac90e053\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8cde3dcf2c58009f1a71b0b3ac90e053\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ec07f0de9e4ba20af09e96516b50c5c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ec07f0de9e4ba20af09e96516b50c5c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3d240960d61ca6086f2f76a8fcf167a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Sofiane\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3d240960d61ca6086f2f76a8fcf167a7\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sofiane\Desktop\Ress\app\src\main\AndroidManifest.xml
